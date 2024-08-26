@@ -2,7 +2,7 @@
 The "Amazon Clone" project aims to replicate the user interface and design of the popular e-commerce website Amazon using only HTML and CSS.
 
 ## Demo
-You can visit [here](ayanjaved.github.io/Amazon-clone-css/).
+You can visit [here]( ayanjaved.github.io/Amazon-clone-css/ ).
 ## Features
 
 - HTML5 Structure: Utilizes semantic HTML elements to structure the content of the web pages.
